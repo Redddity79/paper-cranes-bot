@@ -9,10 +9,6 @@ import random
 from aiogram.utils.emoji import emojize
 from urllib.request import urlopen
 
-# "1447798712:AAHm6uSknzWH1XZijZgWfc6tAPlWWyKtcOE"
-
-# emojize(' :candle:',use_aliases=True)
-
 token = "1447798712:AAHm6uSknzWH1XZijZgWfc6tAPlWWyKtcOE"
 logging.basicConfig(level=logging.INFO)
 
