@@ -1,1 +1,2 @@
-bot: python3.6.4 paper-cranes-bot.py
+heroku ps:scale web=1
+worker: python paper-cranes-bot.py
