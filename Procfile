@@ -1,1 +1,1 @@
-web: python3 paper-cranes-bot.py
+bot: python3.6.4 paper-cranes-bot.py
