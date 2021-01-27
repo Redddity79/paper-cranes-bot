@@ -10,7 +10,7 @@ from aiogram.utils.emoji import emojize
 from urllib.request import urlopen
 import requests
 
-token = "1447798712:AAHm6uSknzWH1XZijZgWfc6tAPlWWyKtcOE"
+token = "token here"
 logging.basicConfig(level=logging.INFO)
 
 craneBot = Bot(token=token)
